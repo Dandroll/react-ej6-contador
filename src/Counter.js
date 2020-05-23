@@ -1,8 +1,4 @@
 import React, { useState } from 'react';
-import 'semantic-ui-css/semantic.min.css';
-
-
-
 
 const Counter = (props) => {
     const [ counter, setCounter] =useState(0);

@@ -3,8 +3,6 @@ import { render } from 'react-dom';
 import Counter from './Counter';
 import 'semantic-ui-css/semantic.min.css';
 
-//import "./style.css";
-
 const App = () => {
   return (
     <div className='container'>
